@@ -72,8 +72,8 @@ do {
   while (i < k);
 return statement;
 }
-=======
+
   while (i <15);
 }
 
->>>>>>> bb6afdbe2034ae2253f8d895470717a71583c73f
+
