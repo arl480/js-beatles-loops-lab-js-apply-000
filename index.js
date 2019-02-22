@@ -63,12 +63,11 @@ function iLoveTheBeatles(){
 
 var statement = [ ];
 var i = 0;
->>>>>>> bb6afdbe2034ae2253f8d895470717a71583c73f
 do {
   statement.push('I love the Beatles!');
   i++;
 }
-<<<<<<< HEAD
+
   while (i < k);
 return statement;
 }
