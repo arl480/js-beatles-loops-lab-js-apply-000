@@ -13,20 +13,8 @@ statement.push(musicians[i] + " plays " + instruments[i]);
 
 
 function johnLennonFacts(facts){
-<<<<<<< HEAD
 var exclaim = [ ];
 
-=======
- /* facts = [
-  "He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
-  "He was a choir boy and boy scout",
-  "He hated the sound of his own voice" 
-]; */
-facts = [ "foo","bar"];
-var exclaim = [];
->>>>>>> bb6afdbe2034ae2253f8d895470717a71583c73f
-var i =0;
 while(i < facts.length){
   exclaim.push(facts[i]+ '!!!');
    i = i + 1;
@@ -34,7 +22,6 @@ while(i < facts.length){
   return exclaim;
 }
 
-<<<<<<< HEAD
 
 
 function iLoveTheBeatles(n){
