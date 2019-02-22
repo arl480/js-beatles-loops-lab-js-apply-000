@@ -38,7 +38,6 @@ else {
 
 var i = 0;
 
-=======
 /*function johnLennonFacts(facts){
   facts = [
   "He was the last Beatle to learn to drive",
