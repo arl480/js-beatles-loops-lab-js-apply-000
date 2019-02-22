@@ -34,45 +34,6 @@ if(n > 15) {
 else {
  k = 15-n;
 
-}
-
-var i = 0;
-
-/*function johnLennonFacts(facts){
-  facts = [
-  "He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
-  "He was a choir boy and boy scout",
-  "He hated the sound of his own voice" 
-];
-//facts = [ "foo","bar"];
-var exclaim = [];
-var i =0;
-while(i < facts.length){
-  exclaim.push(facts[i]+ '!!!');
-   i = i + 1;
-}
-  return exclaim;
-}*/
-
-
-
-
-
-function iLoveTheBeatles(){
-
-var statement = [ ];
-var i = 0;
-do {
-  statement.push('I love the Beatles!');
-  i++;
-}
-
-  while (i < k);
-return statement;
-}
-
-  while (i <15);
-}
+}}
 
 
